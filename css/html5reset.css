@@ -64,10 +64,9 @@ div {
 .introduction {
 	border-radius: 15px; /* Border radius to curve the edges */
 	padding: 15px;
-	p{
-		margin-top: 15px;
-		line-height: 2; /* Double-spaced text */
-	}
+	margin-top: 15px;
+	line-height: 2; /* Double-spaced text */
+	
 }
 .red {
 	background-color: #ff0000; 
