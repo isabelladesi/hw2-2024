@@ -63,6 +63,7 @@ div {
 	border-radius: 15px; /* Border radius to curve the edges */
 	margin-top: 15px;
 	line-height: 2; /* Double-spaced text */
+	padding: 15px;
 }
 .red {
 	background-color: #ff0000; 
