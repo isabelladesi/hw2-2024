@@ -84,10 +84,11 @@ div {
 	border-right: 5px solid #ffffff;
 	border-top: 2px solid #ffffff;
 	border-left: none;
+	border-bottom: none;
 	color: #C4C4C4;
 }
 .blue h2{
-	color: #DDDD;
+	color: #C4C4C4;
 }
 .yellow {
 	background-color: #ffff00; /* Hexadecimal value for yellow */
