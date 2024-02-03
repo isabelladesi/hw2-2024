@@ -40,6 +40,7 @@ h1 {
 	font-size: 42px;
 	text-align: center;
 	padding: 15px;
+	margin: 20px 20px 0 20px;
 }
 h2 {
 	font-size: 30px;
@@ -63,9 +64,11 @@ div {
 }
 .introduction {
 	border-radius: 15px; /* Border radius to curve the edges */
-	margin-top: 15px;
-	line-height: 2; /* Double-spaced text */
 	padding: 15px;
+	p{
+		margin-top: 15px;
+		line-height: 2; /* Double-spaced text */
+	}
 }
 .red {
 	background-color: #ff0000; 
