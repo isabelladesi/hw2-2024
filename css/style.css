@@ -1,0 +1,90 @@
+body {
+	font-family: 'Arial', Verdana;
+	background-color: #000000;
+	color: #ffffff;
+	/*line-height: 1;*/
+	margin: 20px 20px 0 20px;
+}
+h1 {
+	font-size: 42px;
+	text-align: center;
+	padding: 15px;
+	margin: 20px 20px 0 20px; /* remove ?*/
+}
+h2 {
+	font-size: 30px;
+	color: #0D0D0D; 
+}
+p {
+  	font-size: 24px;
+  	padding: 10px 0 0 10px;
+}
+img {
+	width: 250px;
+	display: block; /* center the image?? */
+	margin: 0 auto; /* center the image?? */
+	margin-top: 0px;  /* remove ?*/
+	border: 10px dashed #ffffff; 
+}
+div {
+	min-height: 125px;
+	padding: 20px;
+	border: 3px solid #ffffff;
+}
+.introduction {
+	border-radius: 15px; /* Border radius to curve the edges */
+	padding: 15px;
+	margin-top: 15px;
+	line-height: 2; /* Double-spaced text */
+	
+}
+.red {
+	background-color: #ff0000; 
+	text-align: right;
+	margin-left: 50px;
+	border-bottom: 2px solid #ffffff; 
+	border-left: 5px solid #ffffff;
+	border-right: none;
+	border-top: none;
+}
+.blue{
+	background-color: #0000ff;
+	text-align: left;
+	margin-right: 50px;
+	border-right: 5px solid #ffffff;
+	border-top: 2px solid #ffffff;
+	border-left: none;
+	border-bottom: none;
+	color: #C4C4C4;
+}
+.blue h2{
+	color: #C4C4C4;
+}
+.yellow {
+	background-color: #ffff00; /* Hexadecimal value for yellow */
+	text-align: right;
+	margin-left: 50px;
+	border-bottom: 2px solid #ffffff; /* White border on the bottom */
+	border-left: 5px solid #ffffff; /* White border on the left */
+	border-right: none;
+	border-top: none;
+	color: #707070;
+}
+.green {
+	background-color: #008500; /* Hexadecimal value for green */
+	text-align: left;
+	margin-right: 50px;
+	border-right: 5px solid #ffffff; /* White border on the right */
+	border-top: 2px solid #ffffff; /* White border on the top */
+	border-left: none;
+	border-bottom: none;
+}
+footer {
+	background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
+	border: 5px solid #ffffff; /* White border */
+}
+footer p{
+	font-size: 20px;
+	text-align: right;
+	padding: 15px 15px 15px 0;
+}
